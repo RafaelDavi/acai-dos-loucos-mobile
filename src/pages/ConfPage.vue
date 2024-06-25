@@ -22,7 +22,7 @@
 
           <div class="buttons">
             Venha conferir nosso app do
-            <p> <router-link to="/Pagamento"><q-btn class="button-color" style="background-color: yellow; color: red">LOUCOS POR FRANGO ORIGINAL</q-btn></router-link> </p>
+            <p> <router-link to="https://loucosporfrangomobile.netlify.app/#/"><q-btn class="button-color" style="background-color: yellow; color: red">LOUCOS POR FRANGO ORIGINAL</q-btn></router-link> </p>
           </div>
         </div>
       </div>
