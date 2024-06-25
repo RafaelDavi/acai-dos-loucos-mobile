@@ -20,9 +20,9 @@
             <p> <router-link to="/Pagamento"><q-btn class="button-color">PAGAMENTOS</q-btn></router-link> </p>
           </div>
 
-          <a href="https://loucosporfrangomobile.netlify.app/#/" target="_blank" class="buttons">
+          <a href="https://loucosporfrangomobile.netlify.app/#/" class="buttons">
             Venha conferir nosso app do
-            <p> <router-link to="https://loucosporfrangomobile.netlify.app/#/"><q-btn class="button-color" style="background-color: yellow; color: red">LOUCOS POR FRANGO ORIGINAL</q-btn></router-link> </p>
+            <p> <q-btn class="button-color" style="background-color: yellow; color: red">LOUCOS POR FRANGO ORIGINAL</q-btn> </p>
           </a>
         </div>
       </div>
