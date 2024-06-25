@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "nome": "Açai 300ml",
+      "valor": 17.00,
+      "imagem": "src/assets/frango.jpeg"
+    },
+    {
+      "id": 2,
+      "nome": "Açai 500ml",
+      "valor": 21.00,
+      "imagem": "src/assets/frango2.jpeg"
+    },
+    {
+      "id": 3,
+      "nome": "Açai 750ml",
+      "valor": 29.00,
+      "imagem": "src/assets/frango3.jpeg"
+    },
+    {
+      "id": 4,
+      "nome": "Barca de açai 750ml",
+      "valor": 30.00,
+      "imagem": "src/assets/frango5.jpeg"
+    },
+    {
+      "id": 5,
+      "nome": "Barca de açai 1L",
+      "valor": 50.00,
+      "imagem": "src/assets/frango4.jpeg"
+    }
+  ]
+  

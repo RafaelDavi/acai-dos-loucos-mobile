@@ -1,0 +1,28 @@
+[
+    {
+      "CPF":12345678910,
+      "nome": "Pedro Bazotti",
+      "endereco": "rua amsterdan"
+    },
+    {
+      "CPF":13131344341,
+      "nome": "Rafael Branco",
+      "endereco": "rua tamba uva"
+    },
+    {
+      "CPF":44455566677,
+      "nome": "Joao Bigode",
+      "endereco": "rua queen"
+    },
+    {
+      "CPF":55556668889,
+      "nome": "Eduardo Jungs",
+      "endereco": "rua ponta grossa"
+    },
+    {
+      "CPF":66688800079,
+      "nome": "Alysson Pedro",
+      "endereco": "rua papa-mama"
+    }
+  ]
+  
